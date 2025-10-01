@@ -16,7 +16,7 @@ Cada projeto é parte de uma **série de evolução**, onde vou adicionando nova
 - Visuais: Receita por forma de pagamento, Top 5 produtos mais vendidos.  
 
 📷 **Print:**  
-![Dashboard V1](link_para_imagem)
+[![Dashboard V1](link_para_imagem)](https://github.com/Manuela-Carvalho/Power-BI/tree/main/v1)
 
 ---
 
