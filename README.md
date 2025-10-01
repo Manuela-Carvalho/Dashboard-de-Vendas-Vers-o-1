@@ -1,45 +1,64 @@
-# Power BI Projects
+# 📊 Portfólio de Dashboards em Power BI  
 
-Bem-vindo ao meu portfólio de projetos em Power BI! 🚀  
-Aqui você encontrará dashboards que desenvolvi explorando vendas, estoque e desempenho de negócios.
+Bem-vindo ao meu repositório de projetos em Power BI! 🚀  
+Aqui eu documento minha evolução na área de análise de dados, mostrando como construo dashboards que geram **insights de negócio** e apoiam a **tomada de decisão**.  
 
-## Projetos
-
-  📊 Análise de faturamento, ticket médio e formas de pagamento.  
-
-  
-  📦 Monitoramento de giro de produtos e rupturas.
-
-
-
-
-
-# 📊 Série de Dashboards de Vendas no Power BI
-
-Este repositório documenta a evolução de dashboards de vendas no Power BI, mostrando a construção passo a passo, desde indicadores básicos até análises estratégicas e preditivas.  
-
-O objetivo é demonstrar habilidades em **análise de dados** e **visualização**, além de aplicar conceitos de negócio em relatórios que apoiam a tomada de decisão.  
+Cada projeto é parte de uma **série de evolução**, onde vou adicionando novas análises e complexidade a partir de dados de vendas e estoque.  
 
 ---
 
-## 🚀 Estrutura da Série
-- 🔹 Cada versão traz melhorias em **design**, **KPIs** e **profundidade analítica**.  
-- 🔹 Os arquivos de cada versão estão organizados em pastas separadas.  
+## 🗂️ Projetos  
+
+### 🔹 V1 – Dashboard de Vendas  
+📌 **Objetivo:** Analisar o desempenho geral de vendas.  
+
+- KPIs: Receita total, Nº de vendas, Ticket médio.  
+- Visuais: Receita por forma de pagamento, Top 5 produtos mais vendidos.  
+
+📷 **Print:**  
+![Dashboard V1](link_para_imagem)
 
 ---
 
-## 📂 Versões da Série
+### 🔹 V2 – Produtos + Estoque *(em andamento)*  
+📌 **Objetivo:** Cruzar vendas com estoque para entender giro, rupturas e encalhes.  
 
-| Versão   | Descrição | Link |
-|----------|-----------|------|
-| **V1** | Dashboard inicial com KPIs básicos | [Acessar](https://github.com/Manuela-Carvalho/Power-BI/tree/main/v1) |
-| **V2**   | Evolução de layout com novos indicadores | *(em breve)* |
-| **V3**   | Giro de estoque, ruptura e margem de lucro | *(em breve)* |
-| **V4**   | Previsões e storytelling de negócio | *(em breve)* |
+- KPIs: Giro de estoque, Produtos encalhados, Risco de ruptura.  
+- Visuais: Estoque vs. Vendas médias, Produtos com maior margem vs. volume.  
 
-
+📷 **Print (mockup):**  
+![Dashboard V2](link_para_imagem)
 
 ---
 
+### 🔹 V3 – Insights Estratégicos *(próxima etapa)*  
+📌 **Objetivo:** Levar a análise para o nível estratégico, mostrando oportunidades e riscos.  
 
-✍️ *Projeto em constante evolução — acompanhe para ver as próximas versões.*
+- Análises: Receita perdida por ruptura, Projeção de vendas, Ticket médio por produto.  
+- Storytelling: Insights escritos em linguagem de negócio.  
+
+---
+
+## 📅 Roadmap da Série  
+
+- [x] V1 – Dashboard simples de vendas  
+- [ ] V2 – Dashboard de Produtos + Estoque  
+- [ ] V3 – Dashboard de Insights Estratégicos  
+
+---
+
+## 🛠️ Tecnologias Utilizadas  
+- **Power BI** (modelagem e visualização)  
+- **Excel/CSV** (dados de vendas e estoque)  
+- **GitHub** (documentação e versionamento)  
+
+---
+
+## ✨ Observação  
+Os dados usados neste repositório são **fictícios e anonimizados**, utilizados apenas para fins de estudo e portfólio.  
+
+---
+
+👩‍💻 *Criado por [Manuela Carvalho](https://github.com/Manuela-Carvalho)*  
+ 
+
