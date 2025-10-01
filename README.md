@@ -14,12 +14,13 @@ O objetivo é demonstrar habilidades em **análise de dados** e **visualização
 
 ## 📂 Versões da Série
 
-| Versão   | Descrição                                                                 |
-|----------|---------------------------------------------------------------------------|
-| **V1**   | Dashboard inicial com KPIs básicos (receita, vendas, ticket médio, top produtos, formas de pagamento). |
-| **V2**   | Evolução de layout e inclusão de novos indicadores (crescimento %, participação por forma de pagamento). |
-| **V3**   | Cruzamento de vendas x estoque: giro de produtos, ruptura, encalhe e margem de lucro. | *(em breve)* |
-| **V4**   | Insights estratégicos e projeções: previsão de vendas, ticket médio detalhado, storytelling de negócio. |
+| Versão   | Descrição | Link |
+|----------|-----------|------|
+| **V1**   | Dashboard inicial com KPIs básicos | [Acessar](./v1/dashboard-v1.pbix) |
+| **V2**   | Evolução de layout com novos indicadores | [Acessar](./v2/dashboard-v2.pbix) |
+| **V3**   | Giro de estoque, ruptura e margem de lucro | *(em breve)* |
+| **V4**   | Previsões e storytelling de negócio | *(em breve)* |
+. |
 
 
 ---
