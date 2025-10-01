@@ -20,7 +20,7 @@ O objetivo é demonstrar habilidades em **análise de dados** e **visualização
 | **V2**   | Evolução de layout com novos indicadores | *(em breve)* |
 | **V3**   | Giro de estoque, ruptura e margem de lucro | *(em breve)* |
 | **V4**   | Previsões e storytelling de negócio | *(em breve)* |
-. |
+
 
 
 ---
