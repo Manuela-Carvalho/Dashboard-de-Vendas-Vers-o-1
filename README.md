@@ -1,4 +1,4 @@
-dashboard-vendas-powerbi/
+dashboard-vendas-powerbi
 
 
 ├── versao1/
