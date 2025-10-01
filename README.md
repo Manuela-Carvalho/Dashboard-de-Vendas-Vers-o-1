@@ -1,3 +1,20 @@
+# Power BI Projects
+
+Bem-vindo ao meu portfólio de projetos em Power BI! 🚀  
+Aqui você encontrará dashboards que desenvolvi explorando vendas, estoque e desempenho de negócios.
+
+## Projetos
+- [Dashboard de Vendas](link_para_pasta)  
+  📊 Análise de faturamento, ticket médio e formas de pagamento.  
+  ![print](link_para_imagem)  
+
+- [Dashboard de Estoque](link_para_pasta)  
+  📦 Monitoramento de giro de produtos e rupturas.
+
+
+
+
+
 # 📊 Série de Dashboards de Vendas no Power BI
 
 Este repositório documenta a evolução de dashboards de vendas no Power BI, mostrando a construção passo a passo, desde indicadores básicos até análises estratégicas e preditivas.  
