@@ -4,11 +4,10 @@ Bem-vindo ao meu portfólio de projetos em Power BI! 🚀
 Aqui você encontrará dashboards que desenvolvi explorando vendas, estoque e desempenho de negócios.
 
 ## Projetos
-- [Dashboard de Vendas](link_para_pasta)  
-  📊 Análise de faturamento, ticket médio e formas de pagamento.  
-  ![print](link_para_imagem)  
 
-- [Dashboard de Estoque](link_para_pasta)  
+  📊 Análise de faturamento, ticket médio e formas de pagamento.  
+
+  
   📦 Monitoramento de giro de produtos e rupturas.
 
 
