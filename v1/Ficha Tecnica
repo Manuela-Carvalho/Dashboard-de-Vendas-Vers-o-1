@@ -1,0 +1,62 @@
+# 📊 Dashboard V1 – Vendas  
+
+## 🎯 Objetivo  
+Criar a primeira versão de um dashboard em Power BI para analisar o desempenho geral de vendas, utilizando KPIs básicos e visuais simples.  
+Essa versão marca o **início da série de evolução** que mostrará a transformação de um painel simples em uma análise estratégica de negócio.  
+
+---
+
+## 📂 Estrutura dos Dados  
+- Fonte: Planilha Excel com histórico de vendas.  
+- Principais campos utilizados:  
+  - Data da venda  
+  - Produto  
+  - Quantidade  
+  - Valor da venda  
+  - Forma de pagamento  
+
+---
+
+## 📌 KPIs Criados  
+- **Receita Total (R$)** → Soma do valor de todas as vendas.  
+- **Nº de Vendas** → Contagem das transações.  
+- **Ticket Médio (R$)** → Receita Total ÷ Nº de Vendas.  
+
+---
+
+## 📊 Visuais do Dashboard  
+- **Cards** no topo com os 3 KPIs principais.  
+- **Gráfico de colunas**: Receita por forma de pagamento.  
+- **Gráfico de barras**: Top 5 produtos mais vendidos.  
+- **Gráfico de linhas**: Receita por período (mensal).  
+
+---
+
+## 🛠️ Tecnologias Utilizadas  
+- **Power BI Desktop** (criação do dashboard).  
+- **Excel** (como base de dados).  
+
+---
+
+## 📷 Screenshot  
+*(inserir imagem do dashboard aqui)*  
+Exemplo:  
+![Dashboard V1](dashboard-v1.png)  
+
+---
+
+## 📈 Insights Extraídos  
+- O **ticket médio** permite entender o perfil de compra dos clientes.  
+- A **forma de pagamento mais usada** mostra como os clientes preferem pagar (ex.: PIX, cartão).  
+- O **Top 5 produtos** ajuda a identificar os itens mais relevantes para o faturamento.  
+
+---
+
+## 🚀 Próximos Passos (para V2)  
+- Adicionar **dados de estoque** e cruzar com as vendas.  
+- Criar indicadores de **giro de estoque**, **produtos encalhados** e **risco de ruptura**.  
+- Melhorar layout e storytelling do painel.  
+
+---
+
+👩‍💻 *Projeto criado por [Manuela Carvalho](https://github.com/Manuela-Carvalho)*
