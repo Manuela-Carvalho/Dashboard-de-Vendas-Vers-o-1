@@ -1,0 +1,38 @@
+📊 Série de Dashboards de Vendas no Power BI
+
+Este repositório documenta a evolução de dashboards de vendas no Power BI, mostrando a construção passo a passo, desde indicadores básicos até análises estratégicas e preditivas.
+
+O objetivo é demonstrar habilidades em análise de dados e visualização, além de aplicar conceitos de negócio em relatórios que apoiam a tomada de decisão.
+
+🚀 Estrutura da Série
+
+🔹 Cada versão traz melhorias em design, KPIs e profundidade analítica.
+🔹 Os arquivos de cada versão estão organizados em pastas separadas.
+
+Versão	Descrição	Link
+Versão 1	Dashboard inicial com KPIs básicos (receita, vendas, ticket médio, top produtos, formas de pagamento).	Acessar
+
+Versão 2	Evolução de layout e inclusão de novos indicadores (crescimento %, participação por forma de pagamento).	Acessar
+
+Versão 3	Cruzamento de vendas x estoque: giro de produtos, ruptura, encalhe e margem de lucro.	Acessar
+
+Versão 4	Insights estratégicos e projeções: previsão de vendas, ticket médio detalhado, storytelling de negócio.	Acessar
+📌 Exemplos Visuais
+Versão 1 – Dashboard inicial
+
+(prints das próximas versões serão adicionados conforme a evolução)
+
+📂 Estrutura do Repositório
+dashboard-vendas-powerbi/
+│
+├── versao1/        # Primeira versão do dashboard
+├── versao2/        # Evolução com KPIs avançados
+├── versao3/        # Cruzamento vendas x estoque
+├── versao4/        # Insights estratégicos
+├── imagens/        # Prints das versões
+└── README.md       # README principal (este arquivo)
+
+👩‍💻 Autora
+
+Desenvolvido por Manuela Gomes de Carvalho
+🔗 LinkedIn: www.linkedin.com/in/manuela-carvalho-7616325b
