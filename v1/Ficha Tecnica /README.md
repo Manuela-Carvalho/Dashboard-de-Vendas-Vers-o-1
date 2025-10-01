@@ -40,7 +40,7 @@ Essa versão marca o **início da série de evolução** que mostrará a transfo
 
 ## 📷 Screenshot  
   
-![Dashboard V1](https://github.com/Manuela-Carvalho/Power-BI/blob/main/v1/Dashboard/README.md)
+<img width="1424" height="759" alt="image" src="https://github.com/user-attachments/assets/c7eddee7-951a-40bc-8859-b5937fdbf0f0" />
 
 ---
 
