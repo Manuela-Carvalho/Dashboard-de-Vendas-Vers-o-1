@@ -18,6 +18,8 @@ Cada projeto é parte de uma série de evolução, onde vou adicionando novas an
 📷 *Print:*  
 Dashboard V1  
 
+<img width="1432" height="805" alt="image" src="https://github.com/user-attachments/assets/7cd5d3a8-023b-45a8-8e71-eca26614c826" />
+
 ---
 
 ### 🔹 V2 – Produtos + Estoque
